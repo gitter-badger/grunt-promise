@@ -1,5 +1,7 @@
 # grunt-promise [![Build Status](https://travis-ci.org/unicorn-fail/grunt-promise.svg)](https://travis-ci.org/unicorn-fail/grunt-promise)
 
+[![Join the chat at https://gitter.im/unicorn-fail/grunt-promise](https://badges.gitter.im/unicorn-fail/grunt-promise.svg)](https://gitter.im/unicorn-fail/grunt-promise?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Create asynchronous Grunt tasks using Promises.
 
 ## Getting Started
