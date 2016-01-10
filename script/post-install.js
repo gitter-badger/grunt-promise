@@ -6,7 +6,8 @@ var p = require('../lib/promise')();
 var libraries = p.info();
 
 // Determine if there is native promise support.
-var native = !!libraries.native();
+var native = false;
+try {native = !!libraries.native();}catch (e){}
 
 // Remove the native "library" from the list.
 delete libraries.native;
