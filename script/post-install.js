@@ -1,4 +1,11 @@
 #!/usr/bin/env node
+/**
+ * The post-install script for the "grunt-promise" NPM module.
+ *
+ * The MIT License (MIT)
+ * Copyright (c) 2016 Mark Carver
+ */
+
 'use strict';
 var p = require('../lib/promise')();
 
